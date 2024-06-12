@@ -1,0 +1,38 @@
+.about__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.about__logo {
+  margin-top: 2rem;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.about__logo img {
+  object-fit: cover;
+  flex-shrink: 0;
+  height: 100%;
+  width: auto;
+}
+
+.about_info{
+  padding: 1rem 2rem;
+  margin: 2rem auto;
+  outline: 0.2rem solid var(--color-primary);
+  border-radius: 1rem;
+  outline-offset: -0.5rem;
+  width: fit-content;
+  text-align: center;
+}
+
+
+@media screen and (max-width: 600px) {
+  .about_info{
+    width: 80%;
+  }
+}
