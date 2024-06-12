@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpecBeer/static/css/main.951085ce.css",
+    "main.js": "/SpecBeer/static/js/main.bb1aca66.js",
+    "static/js/453.3bad47ad.chunk.js": "/SpecBeer/static/js/453.3bad47ad.chunk.js",
+    "static/media/logo.png": "/SpecBeer/static/media/logo.faa23e423792c9666b7f.png",
+    "index.html": "/SpecBeer/index.html",
+    "main.951085ce.css.map": "/SpecBeer/static/css/main.951085ce.css.map",
+    "main.bb1aca66.js.map": "/SpecBeer/static/js/main.bb1aca66.js.map",
+    "453.3bad47ad.chunk.js.map": "/SpecBeer/static/js/453.3bad47ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951085ce.css",
+    "static/js/main.bb1aca66.js"
+  ]
+}
